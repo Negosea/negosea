@@ -1,21 +1,19 @@
 # 👋 Olá, eu sou Marcos Sea
 
-![Banner](https://i.zst.com.br/thumbs/12/34/31/1537133710.jpg)
-
 ## 🌟 Bem-vindo ao meu perfil do GitHub!
 Sou estudante de **Inteligência Artificial** na **Unicesumar** e apaixonado por tecnologia. Estou em transição de carreira da construção civil para a área de desenvolvimento de software.
 
 ### Linguagens de programação
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks e bibliotecas
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
