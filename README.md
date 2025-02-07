@@ -4,7 +4,7 @@
 
 ## Bem-vindo ao meu perfil do GitHub
 
-Sou Marcos Silva, estudante de Inteligência Artificial na Unicesumar e apaixonado por tecnologia. Estou em transição de carreira da construção civil para a área de desenvolvimento de software e busco oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores.
+Sou Marcos Sea, estudante de Inteligência Artificial na Unicesumar e apaixonado por tecnologia. Estou em transição de carreira da construção civil para a área de desenvolvimento de software e busco oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores.
 
 ## Habilidades
 
