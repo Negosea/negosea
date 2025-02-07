@@ -1,12 +1,9 @@
+# 👋 Olá, eu sou Marcos Sea
+
 ![Banner](https://i.zst.com.br/thumbs/12/34/31/1537133710.jpg)
 
-# Olá
-
-## Bem-vindo ao meu perfil do GitHub
-
-Sou Marcos Sea, estudante de Inteligência Artificial na Unicesumar e apaixonado por tecnologia. Estou em transição de carreira da construção civil para a área de desenvolvimento de software e busco oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores.
-
-## Habilidades
+## 🌟 Bem-vindo ao meu perfil do GitHub!
+Sou estudante de **Inteligência Artificial** na **Unicesumar** e apaixonado por tecnologia. Estou em transição de carreira da construção civil para a área de desenvolvimento de software.
 
 ### Linguagens de programação
 
