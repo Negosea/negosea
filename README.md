@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/800x200?text=Caranguejo+Negro)
+![Banner](https://i.zst.com.br/thumbs/12/34/31/1537133710.jpg)
 
 # Olá
 
