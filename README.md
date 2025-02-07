@@ -1,15 +1,19 @@
-
-https://img.shields.io/badge/Cristo%20Salva%20Vida-8A2BE2
+![Cristo Salva Vida](https://img.shields.io/badge/Cristo%20Salva%20Vida-8A2BE2)
 
 # 👋 Olá, eu sou Marcos Sea
 
 ## 🌟 Bem-vindo ao meu perfil do GitHub!
 Sou estudante de **Inteligência Artificial** na **Unicesumar** e apaixonado por tecnologia. Estou em transição de carreira da construção civil para a área de desenvolvimento de software.
 
+### Valores Pessoais
+
+Minha fé é uma parte fundamental da minha jornada. Acredito que a tecnologia pode ser uma ferramenta poderosa para impactar positivamente a sociedade, refletindo princípios de amor, justiça e inovação.
+
+![Cristo Salva Vida](https://img.shields.io/badge/Cristo%20Salva%20Vida-8A2BE2)
 ### Linguagens de programação
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,12 +33,29 @@ Sou estudante de **Inteligência Artificial** na **Unicesumar** e apaixonado por
 
 * **Graduação em Inteligência Artificial** - Unicesumar
 
-## ‍ Projetos
+## ‍🚀 Experiência e Projetos
 
-* [wss-docker-data-mesh](https://github.com/Negosea/wss-docker-data-mesh)
-  * Descrição do projeto
-* [wss-orelha_seca](https://github.com/Negosea/wss-orelha_seca)
-  * Descrição do projeto
+### Chatbot Caranguejo Negro
+Desenvolvi um chatbot conversacional chamado **Caranguejo Negro**, baseado no modelo **DialoGPT-medium**. O projeto utiliza:
+- **FastAPI**: Para criar APIs RESTful eficientes.
+- **SQLite**: Para armazenar o estado das conversas.
+- **Hugging Face Transformers**: Para integrar modelos de IA pré-treinados.
+
+🔗 [Repositório do Chatbot Caranguejo Negro](https://github.com/Negosea/ChatBox_Caranguejo_Negro)
+
+🔗 [wss-docker-data-mesh](https://github.com/Negosea/wss-docker-data-mesh)
+  
+🔗[wss-orelha_seca](https://github.com/Negosea/wss-orelha_seca)
+
+## 📚 Aprendizado Contí
+Estou constantemente aprendendo novas tecnologias e ferramentas para aprimorar minhas habilidades. Alguns dos tópicos que estou explorando incluem:
+
+Inteligência Artificial : Modelos
+Desenvolvimento iOS : SwiftUI, Core
+DevOps : Docker, CI/CD e automação
+Frontend Avançado : Three.js para gráficos
+
+  
 
 ## Contato
 
